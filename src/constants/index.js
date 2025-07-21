@@ -213,12 +213,7 @@ export const mySocials = [
    {
     name: "Github",
     href: "https://github.com/VamsiKrishnaGurram",
-    icon: "/assets/socials/github.svg",
-  },
-   {
-    name: "Reddit",
-    href: "https://www.reddit.com/user/Hiccup_2OP/",
-    icon: "/assets/socials/reddit.svg",
+    icon: "/assets/socials/githubb.svg",
   },
 ];
 
