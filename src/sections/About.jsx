@@ -101,6 +101,7 @@ const About = () => {
         </div>
       </div>
     </section>
+    // Dummy 
   );
 };
 
