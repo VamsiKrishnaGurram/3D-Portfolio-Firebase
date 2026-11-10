@@ -36,7 +36,7 @@ const Navbar = () => {
             href="/"
             className="text-xl font-bold transition-colors text-neutral-400 hover:text-white"
           >
-            Vamsi
+            Vamsi Krishna
           </a>
           <button
             onClick={() => setIsOpen(!isOpen)}
